@@ -1,0 +1,41 @@
+# Vivado Project Files to ignore
+.Xil/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.dir
+*.xpr.backup*
+*.backup/
+*.rst
+*.zip
+*.cache/
+
+# Synthesis, Implementation, and Simulation Directories
+*.runs/
+*.sim/
+*.synth/
+*.impl/
+*.launch/
+*.bit
+*.bin
+*.mcs
+
+# Questa/ModelSim/GHDL/etc. Simulation related files
+work/
+transcript
+vsim.wlf
+*.bak
+*.vpd
+*.wdb
+*.cf
+*.dat
+wave.do
+compile.log
+
+# Python specific files and directories
+.venv/          # Python virtual environment (if created in root)
+venv/           # Python virtual environment (if created in root)
+__pycache__/    # Python bytecode cache files
+*.pyc           # Compiled Python files
