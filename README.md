@@ -34,3 +34,7 @@ For user convenience and control, a physical button on the Basys 3 board is inte
 ![Robotic Hand Short Demo GIF](images/Demonstration.gif)
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
